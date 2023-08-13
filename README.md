@@ -1,0 +1,2 @@
+# YanBot_KHB_Edition_autorun
+自动配置YanBot脚本
