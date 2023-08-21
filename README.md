@@ -7,4 +7,6 @@
 
 Debian/Ubuntu:git clone https://github.com/ltzXiaoYanMo/YanBot_KHB_Edition_autorun.git && cd YanBot_KHB_Edition_autorun && sh autorun_ubuntu.sh
 
+
+
 CentOS/Red Hat:git clone https://github.com/ltzXiaoYanMo/YanBot_KHB_Edition_autorun.git && cd YanBot_KHB_Edition_autorun && sh autorun_centos.sh
