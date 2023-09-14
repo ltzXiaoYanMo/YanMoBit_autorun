@@ -1,5 +1,5 @@
 # YanBot_KHB_Edition_autorun
-自动配置YanBot脚本，从干净启动的系统开始，自动配置YanBot Main界面（Mirai和MySQL需要前往https://bot.ymbot.top配置）
+自动配置YanBot脚本，从干净启动的系统开始，自动配置YanBot Main界面（Mirai和MySQL需要前往 https://bot.ymbot.top 配置）
 
 ## 如何使用？
 
