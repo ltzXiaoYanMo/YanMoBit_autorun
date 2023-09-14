@@ -1,1 +1,1 @@
-sudo apt-get update && sudo apt-get install -y wget zip unzip && wget https://github.com/iTXTech/mirai-console-loader/releases/download/v2.1.2/mcl-2.1.2.zip && mkdir MCL && mv mcl-2.1.2.zip MCL && cd MCL && unzip mcl-2.1.2.zip && sudo chmod +x * && ./mcl -u
+sudo apt-get update && sudo apt-get install -y wget zip unzip && wget https://github.com/iTXTech/mirai-console-loader/releases/download/v2.1.2/mcl-2.1.2.zip && cd ~ && mkdir MCL && mv mcl-2.1.2.zip MCL && cd MCL && unzip mcl-2.1.2.zip && sudo chmod +x * && ./mcl -u
