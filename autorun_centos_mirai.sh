@@ -1,0 +1,1 @@
+sudo yum update && sudo yum install -y wget zip unzip && wget https://github.com/iTXTech/mirai-console-loader/releases/download/v2.1.2/mcl-2.1.2.zip && mkdir MCL && mv mcl-2.1.2.zip MCL && cd MCL && unzip mcl-2.1.2.zip && sudo chmod +x * && ./mcl -u
