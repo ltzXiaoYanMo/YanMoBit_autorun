@@ -5,8 +5,12 @@
 
 在Terminal中输入
 
-Debian/Ubuntu:git clone https://github.com/ltzXiaoYanMo/YanBot_KHB_Edition_autorun.git && cd YanBot_KHB_Edition_autorun && sh autorun_ubuntu.sh
+Debian/Ubuntu:sudo apt-get install git && git clone https://github.com/ltzXiaoYanMo/YanBot_KHB_Edition_autorun.git && cd YanBot_KHB_Edition_autorun && sh autorun_ubuntu.sh
 
 
 
-CentOS/Red Hat:git clone https://github.com/ltzXiaoYanMo/YanBot_KHB_Edition_autorun.git && cd YanBot_KHB_Edition_autorun && sh autorun_centos.sh
+CentOS/Red Hat:sudo yum install git && git clone https://github.com/ltzXiaoYanMo/YanBot_KHB_Edition_autorun.git && cd YanBot_KHB_Edition_autorun && sh autorun_centos.sh
+
+
+
+RockyLinux:sudo dnf install git && git clone https://github.com/ltzXiaoYanMo/YanBot_KHB_Edition_autorun.git && cd YanBot_KHB_Edition_autorun && sh autorun_rocky.sh
