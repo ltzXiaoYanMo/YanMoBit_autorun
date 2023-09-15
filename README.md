@@ -3,7 +3,9 @@
 
 ## 如何使用？
 
-Main 在Terminal中输入
+### Main 
+
+在Terminal中输入
 
 Debian/Ubuntu
 
@@ -23,7 +25,9 @@ RockyLinux
   sudo dnf install git && git clone https://github.com/ltzXiaoYanMo/YanBot_KHB_Edition_autorun.git && cd YanBot_KHB_Edition_autorun && sh autorun_rocky.sh
 ```
 
-Mirai配置
+### Mirai配置
+
+在Terminal中输入
 
 Debian/Ubuntu
 
