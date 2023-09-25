@@ -10,19 +10,19 @@
 Debian/Ubuntu
 
 ```sh
-  sudo apt-get install git && git clone https://github.com/ltzXiaoYanMo/YanBot_KHB_Edition_autorun.git && cd YanBot_KHB_Edition_autorun && sh autorun_ubuntu.sh
+sudo apt-get install git && git clone https://github.com/ltzXiaoYanMo/YanBot_KHB_Edition_autorun.git && cd YanBot_KHB_Edition_autorun && sh autorun_ubuntu.sh
 ```
 
 CentOS/Red Hat
 
 ```sh
-  sudo yum install git && git clone https://github.com/ltzXiaoYanMo/YanBot_KHB_Edition_autorun.git && cd YanBot_KHB_Edition_autorun && sh autorun_centos.sh
+sudo yum install git && git clone https://github.com/ltzXiaoYanMo/YanBot_KHB_Edition_autorun.git && cd YanBot_KHB_Edition_autorun && sh autorun_centos.sh
 ```
 
 RockyLinux
 
 ```sh
-  sudo dnf install git && git clone https://github.com/ltzXiaoYanMo/YanBot_KHB_Edition_autorun.git && cd YanBot_KHB_Edition_autorun && sh autorun_rocky.sh
+sudo dnf install git && git clone https://github.com/ltzXiaoYanMo/YanBot_KHB_Edition_autorun.git && cd YanBot_KHB_Edition_autorun && sh autorun_rocky.sh
 ```
 
 ### Mirai配置
@@ -32,17 +32,17 @@ RockyLinux
 Debian/Ubuntu
 
 ```sh
-  sudo apt-get install git && git clone https://github.com/ltzXiaoYanMo/YanBot_KHB_Edition_autorun.git && cd YanBot_KHB_Edition_autorun && sh autorun_ubuntu_mirai.sh
+sudo apt-get install git && git clone https://github.com/ltzXiaoYanMo/YanBot_KHB_Edition_autorun.git && cd YanBot_KHB_Edition_autorun && sh autorun_ubuntu_mirai.sh
 ```
 
 CentOS/Red Hat
 
 ```sh
-  sudo yum install git && git clone https://github.com/ltzXiaoYanMo/YanBot_KHB_Edition_autorun.git && cd YanBot_KHB_Edition_autorun && sh autorun_centos_mirai.sh
+sudo yum install git && git clone https://github.com/ltzXiaoYanMo/YanBot_KHB_Edition_autorun.git && cd YanBot_KHB_Edition_autorun && sh autorun_centos_mirai.sh
 ```
 
 RockyLinux
 
 ```sh
-  sudo dnf install git && git clone https://github.com/ltzXiaoYanMo/YanBot_KHB_Edition_autorun.git && cd YanBot_KHB_Edition_autorun && sh autorun_rocky_mirai.sh
+sudo dnf install git && git clone https://github.com/ltzXiaoYanMo/YanBot_KHB_Edition_autorun.git && cd YanBot_KHB_Edition_autorun && sh autorun_rocky_mirai.sh
 ```
